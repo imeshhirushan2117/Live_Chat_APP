@@ -37,7 +37,7 @@
             <Font name="Arial" size="14.0" />
          </font>
       </JFXButton>
-      <Label layoutY="1.0" prefHeight="42.0" prefWidth="108.0" text="Chat Room" textFill="WHITE" wrapText="true">
+      <Label layoutY="1.0" prefHeight="42.0" prefWidth="147.0" text="Chat Room - User" textFill="WHITE" wrapText="true">
          <padding>
             <Insets left="15.0" />
          </padding>
