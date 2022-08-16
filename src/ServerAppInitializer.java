@@ -13,6 +13,7 @@ import java.net.URL;
 public class ServerAppInitializer extends Application {
     private double xOffset = 0;
     private double yOffset = 0;
+
     @Override
     public void start(Stage primaryStage) throws Exception {
         URL resource = getClass().getResource("view/ServerForm.fxml");
